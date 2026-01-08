@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "E:\\Verve\\Solutions\\MediAgent-MNEE\\contracts\\contracts\\MediClaim.sol": {
+      "lastModificationDate": 1766652194365,
+      "contentHash": "520b950f6bbca8bcd024c3dcf13cd1b5",
+      "sourceName": "contracts/MediClaim.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "MediClaimMNEE"
+      ]
+    }
+  }
+}
